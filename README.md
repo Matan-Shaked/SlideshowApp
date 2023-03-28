@@ -1,0 +1,2 @@
+# SlideshowApp
+javascript vanilla project
