@@ -1,2 +1,2 @@
-# SlideshowApp
-javascript vanilla project
+# java script vanila
+ java script vanila pruject
